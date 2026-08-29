@@ -1,4 +1,4 @@
-st.title("📝 Text Classification App")
+st.title("Text Classification App")
 
 # Load model and vectorizer separately using st.cache_resource
 @st.cache_resource
