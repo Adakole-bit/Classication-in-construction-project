@@ -1,3 +1,6 @@
+import streamlit as st
+import joblib
+
 st.title:"Text Classification App"
 
 # Load model and vectorizer separately using st.cache_resource
